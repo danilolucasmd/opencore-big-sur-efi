@@ -1,2 +1,2 @@
 # opencore-big-sur-efi
-EFI folder for MacOS Big Sur Hackintosh Build
+Opencore's EFI folder for MacOS Big Sur Hackintosh Build
